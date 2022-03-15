@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mortalman12
-- 👀 I’m interested in ...programming
+- 👋 Hi, Austin Thope
+- 👀 I’m interested in ...programming in general
 - 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...anything concerning programming
 - 📫 How to reach me ...chiweruzosamalani@gmail.com
 
 <!---
